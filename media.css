@@ -50,6 +50,18 @@
     .bg-5 {
         height: 50vh;
     }
+    .bg-1 {
+        height: fit-content !important;
+    }
+    .bg-2 {
+        height: fit-content !important;
+    }
+    .bg-3 {
+        height: fit-content !important;
+    }
+    .bg-4 {
+        height: fit-content !important;
+    }
 }
 
 /*  */
@@ -114,6 +126,18 @@
     }
     .bg-5 {
         height: 50vh;
+    }
+    .bg-1 {
+        height: fit-content !important;
+    }
+    .bg-2 {
+        height: fit-content !important;
+    }
+    .bg-3 {
+        height: fit-content !important;
+    }
+    .bg-4 {
+        height: fit-content !important;
     }
 }
 
@@ -233,6 +257,18 @@
     }
     .box-1 img {
         width: 30px !important;
+    }
+    .bg-1 {
+        height: fit-content !important;
+    }
+    .bg-2 {
+        height: fit-content !important;
+    }
+    .bg-3 {
+        height: fit-content !important;
+    }
+    .bg-4 {
+        height: fit-content !important;
     }
 }
 
@@ -421,6 +457,18 @@
     .get-div h3 {
         font-size: 12px !important;
     }
+    .bg-1 {
+        height: fit-content !important;
+    }
+    .bg-2 {
+        height: fit-content !important;
+    }
+    .bg-3 {
+        height: fit-content !important;
+    }
+    .bg-4 {
+        height: fit-content !important;
+    }
 }
 
 @media screen and (max-width: 776px) {
@@ -570,6 +618,18 @@
     }
     .box-1 img {
         width: 30px !important;
+    }
+    .bg-1 {
+        height: fit-content !important;
+    }
+    .bg-2 {
+        height: fit-content !important;
+    }
+    .bg-3 {
+        height: fit-content !important;
+    }
+    .bg-4 {
+        height: fit-content !important;
     }
 
 }
@@ -767,12 +827,30 @@
         /* padding-top: 0% !important; */
         border-radius: 1px;
     }
+    .bg-1 {
+        height: fit-content !important;
+    }
+    .bg-2 {
+        height: fit-content !important;
+    }
+    .bg-3 {
+        height: fit-content !important;
+    }
     .bg-4 {
         height: fit-content !important;
     }
 }
     
     @media screen and (max-width: 320px) {
+        .bg-1 {
+            height: fit-content !important;
+        }
+        .bg-2 {
+            height: fit-content !important;
+        }
+        .bg-3 {
+            height: fit-content !important;
+        }
         .bg-4 {
             height: fit-content !important;
         }
@@ -792,5 +870,4 @@
         .get-div h3 {
             font-size: 12px !important;
         }
-    }
 }
