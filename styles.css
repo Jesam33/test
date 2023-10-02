@@ -209,6 +209,9 @@ li {
 }
 .right-bg {
     background: url("./Image.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .service-img {
     position: absolute;

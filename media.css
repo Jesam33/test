@@ -50,18 +50,6 @@
     .bg-5 {
         height: 50vh;
     }
-    .bg-1 {
-        height: fit-content !important;
-    }
-    .bg-2 {
-        height: fit-content !important;
-    }
-    .bg-3 {
-        height: fit-content !important;
-    }
-    .bg-4 {
-        height: fit-content !important;
-    }
 }
 
 /*  */
@@ -126,18 +114,6 @@
     }
     .bg-5 {
         height: 50vh;
-    }
-    .bg-1 {
-        height: fit-content !important;
-    }
-    .bg-2 {
-        height: fit-content !important;
-    }
-    .bg-3 {
-        height: fit-content !important;
-    }
-    .bg-4 {
-        height: fit-content !important;
     }
 }
 
@@ -222,6 +198,14 @@
         font-size: 15px;
         color: white;
     }
+    .bg-4 {
+        padding-top: 10px;
+        height: fit-content !important;
+    }
+    .bg-3 {
+        height: fit-content !important;
+        padding-bottom: 10px;
+    }
     .get-div button {
         font-size: 15px !important;
         border-radius: 9px !important;
@@ -258,22 +242,10 @@
     .box-1 img {
         width: 30px !important;
     }
-    .bg-1 {
-        height: fit-content !important;
-    }
-    .bg-2 {
-        height: fit-content !important;
-    }
-    .bg-3 {
-        height: fit-content !important;
-    }
-    .bg-4 {
-        height: fit-content !important;
-    }
 }
 
 /*  */
-@media screen and (max-width: 582px) {
+@media screen and (max-width: 776px) {
     
     /* global-styles */
     .container {
@@ -283,6 +255,14 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+    .bg-4 {
+        padding-top: 10px;
+        height: fit-content !important;
+    }
+    .bg-3 {
+        height: fit-content !important;
+        padding-bottom: 10px;
     }
     .sub-container {
         height: 80%;
@@ -457,25 +437,21 @@
     .get-div h3 {
         font-size: 12px !important;
     }
-    .bg-1 {
-        height: fit-content !important;
-    }
-    .bg-2 {
-        height: fit-content !important;
-    }
-    .bg-3 {
-        height: fit-content !important;
-    }
-    .bg-4 {
-        height: fit-content !important;
-    }
 }
 
-@media screen and (max-width: 776px) {
+@media screen and (max-width: 582px) {
     header {
         /* background-color: red; */
         align-items: center;
         width: 90%;
+    }
+    .bg-4 {
+        padding-top: 10px;
+        height: fit-content !important;
+    }
+    .bg-3 {
+        height: fit-content !important;
+        padding-bottom: 10px;
     }
     .container {
         overflow: hidden;
@@ -618,18 +594,6 @@
     }
     .box-1 img {
         width: 30px !important;
-    }
-    .bg-1 {
-        height: fit-content !important;
-    }
-    .bg-2 {
-        height: fit-content !important;
-    }
-    .bg-3 {
-        height: fit-content !important;
-    }
-    .bg-4 {
-        height: fit-content !important;
     }
 
 }
@@ -827,30 +791,12 @@
         /* padding-top: 0% !important; */
         border-radius: 1px;
     }
-    .bg-1 {
-        height: fit-content !important;
-    }
-    .bg-2 {
-        height: fit-content !important;
-    }
-    .bg-3 {
-        height: fit-content !important;
-    }
     .bg-4 {
         height: fit-content !important;
     }
 }
     
     @media screen and (max-width: 320px) {
-        .bg-1 {
-            height: fit-content !important;
-        }
-        .bg-2 {
-            height: fit-content !important;
-        }
-        .bg-3 {
-            height: fit-content !important;
-        }
         .bg-4 {
             height: fit-content !important;
         }
